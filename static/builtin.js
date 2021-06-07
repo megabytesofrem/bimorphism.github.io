@@ -26,7 +26,7 @@ function help() {
 
   echo('<span style="color:green;">help</span>: shows this list of commands');
   echo('<span style="color:green;">echo</span>: echo some text out');
-  echo('<span style="color:green;">welcome</span>: print a fancy penguin');
-  echo('<span style="color:green;">about</span>: information about me');
+  echo('<span style="color:green;">ls</span>: list the contents of a directory');
+  echo('<span style="color:green;">cat</span>: echo the contents of a file');
   echo('<span style="color:green;">git</span>: view my git page');
 }
